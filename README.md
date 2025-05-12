@@ -21,8 +21,6 @@
 <img src="https://img.shields.io/badge/Apache%20Kafka-2088FF?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white"/> 
 
 ## 📜 Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-hyeseong)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-hyeseong&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-hyeseong)](https://github.com/anuraghazra/github-readme-stats)
-
-
